@@ -1,8 +1,12 @@
 # Text-to-Image Generation System
 
-> **Open-source, local-first image generation powered by Stable Diffusion — optimized for consumer GPUs with 2–4 GB VRAM.**
+> **Open-source, local-first image generation for consumer GPUs with 2–4 GB VRAM.**
 
 ---
+
+**Run Command after package installation :-  python main.py "a beautiful sunset over mountains" --steps 30 --seed 42**
+
+
 
 ## Table of Contents
 
