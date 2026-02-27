@@ -4,7 +4,7 @@
 
 ---
 
-**Run Command after package installation :-  python main.py "a beautiful sunset over mountains" --steps 30 --seed 42**
+#Run Command after package installation :-  python main.py "a beautiful sunset over mountains" --steps 30 --seed 42**
 
 
 
